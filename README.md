@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @comradeBlackKaiser
-- 👀 I’m interested in cybersecurity and app development
-- 🌱 I’m currently learning game development and hacking.
-- 💞️ I’m looking to collaborate on anything but software develoment is top of the list
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m @comradeBlackKaiser
+- I’m interested in cybersecurity and app development
+-  I’m currently learning game development and hacking.
+- I’m looking to collaborate on anything but mostly bug bounty hunting 
+
 
 <!---
 comradeBlackKaiser/comradeBlackKaiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
