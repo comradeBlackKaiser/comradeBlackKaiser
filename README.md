@@ -1,7 +1,7 @@
 - Hi, I’m @comradeBlackKaiser
 - I’m interested in cybersecurity and app development
 -  I’m currently learning game development and hacking.
-- I’m looking to collaborate on anything but mostly bug bounty hunting 
+- I’m looking to collaborate on anything but mostly game development in C++
 
 
 <!---
